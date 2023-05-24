@@ -72798,8 +72798,8 @@ A.abD.prototype={
 $0(){this.a.d.a.hR("start-game",A.d2(this.b,!1,t.T).a.c)},
 $S:0}
 A.lm.prototype={
-md(){var s,r,q,p,o,n="http://10.9.193.214:3000",m="query",l=t.N,k=t.z,j=A.a_(["transports",A.b(["websocket"],t.s),"autoConnect",!1],l,k),i=A.rg(n),h=i.gjy()+"://"+i.gnh(i)+":"+i.gqU(i),g=i.gjr(i),f=$.aex.ac(0,h)&&$.aex.h(0,h).d.ac(0,g),e=j.h(0,"forceNew")===!0||j.h(0,"force new connection")===!0||!1===j.h(0,"multiplex")||f,d=A.aY("io")
-if(e){$.aqV().aF(B.l,"ignoring socket cache for http://10.9.193.214:3000",null,null)
+md(){var s,r,q,p,o,n="http://10.9.206.66:3000",m="query",l=t.N,k=t.z,j=A.a_(["transports",A.b(["websocket"],t.s),"autoConnect",!1],l,k),i=A.rg(n),h=i.gjy()+"://"+i.gnh(i)+":"+i.gqU(i),g=i.gjr(i),f=$.aex.ac(0,h)&&$.aex.h(0,h).d.ac(0,g),e=j.h(0,"forceNew")===!0||j.h(0,"force new connection")===!0||!1===j.h(0,"multiplex")||f,d=A.aY("io")
+if(e){$.aqV().aF(B.l,"ignoring socket cache for http://10.9.206.66:3000",null,null)
 d.b=A.al3(j,n)}else{s=$.aex.h(0,h)
 if(s==null){s=A.al3(j,n)
 $.aex.l(0,h,s)}d.b=s}if(i.gnA(i).length!==0&&j.h(0,m)==null)j.l(0,m,i.gnA(i))
